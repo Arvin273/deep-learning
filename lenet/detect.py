@@ -1,9 +1,6 @@
 import torch
-from torch import nn
 from torchvision import datasets, transforms
 from model import LeNet
-from PIL import Image
-import argparse
 
 # 数据预处理（与训练时相同）
 data_transform = transforms.Compose([

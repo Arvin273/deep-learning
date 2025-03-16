@@ -1,5 +1,6 @@
 # 数据集
 lenet/data
+alexnet/data
 .idea
 # 模型文件
 *.pth
